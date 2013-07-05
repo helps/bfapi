@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  userid: MyString
+  password: MyString
+  key: MyString
+  points: 1
+  timeout: 1
+
+two:
+  userid: MyString
+  password: MyString
+  key: MyString
+  points: 1
+  timeout: 1
